@@ -1,0 +1,23 @@
+.box{
+    
+    height: 500px;
+    border: 8px;
+    width: 90%;
+    border-style: solid;
+    border-color: rgba(110, 110, 255, 0.356) ;
+    background-color: rgba(147, 237, 255, 0.404);
+}
+.newr{
+    height: 300px;
+    width: 450px;
+}
+.agile{
+    padding-left: 20px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.ptag{
+    font-size: 15px;
+    padding-left: 10px;
+}
